@@ -26,5 +26,5 @@
 ## 📞 Контакты
 - 📧 Email: [ingvarok83@gmail.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/tyshchenko-igor/](https://linkedin.com/in/tyshchenko-igor/)
-- [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/@karabasbarbas)
+- [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/karabasbarbas)
 
