@@ -1,16 +1,23 @@
-## Hi there 👋
+##Привет, Я Игорь Тыщенко👋
+**Аналитик данных**
 
-<!--
-**IgorTyshchenko/IgorTyshchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Проекты
+- 🌟 [Дипломный проект: B2B сайт для оказания юридических услуг]()  
+ 
+## 🛠️ Навыки
+- **Языки программирования**: Python, SQL  
+- **Инструменты**: MS Excel, Tableau, Power BI, Miro, Redash, Git,Google Analytics
 
-Here are some ideas to get you started:
+## 📈 Интересы
+- Анализ данных и машинное обучение
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Cертификаты
+
+
+##🎓 Диплом
+-
+
+## 📞 Контакты
+- 📧 Email: [ingvarok83@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/tyshchenko-igor/(https://linkedin.com/in/tyshchenko-igor/)
+
