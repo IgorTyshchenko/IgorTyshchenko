@@ -21,7 +21,7 @@
 
 
 # 🎓 Диплом ProductStar
--[Аналитик данных](
+-[Аналитик данных](ДипломProductStar1.jpg)
 
 ## 📞 Контакты
 - 📧 Email: [ingvarok83@gmail.com](mailto:your.email@example.com)
