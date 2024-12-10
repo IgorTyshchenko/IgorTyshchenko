@@ -22,7 +22,7 @@
 
 # 🎓 Диплом ProductStar
 - [Аналитик данных_1](ДипломProduct_Star.jpg)
-- [Аналитик данных_2](
+- [Аналитик данных_2](ДипломProductStar1.jpg)
 
 ## 📞 Контакты
 - 📧 Email: [ingvarok83@gmail.com](mailto:ingvarok83@gmail.com)
